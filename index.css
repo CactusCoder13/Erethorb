@@ -1,0 +1,28 @@
+body{
+    background-color: #4803A0;
+    text-align: center;
+}
+
+button{
+    float: right;
+    background-color: #00137F;
+    color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+.typeButton{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+img{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+}
